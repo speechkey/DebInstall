@@ -1,0 +1,3 @@
+*.deb
+*.sh_bk*
+debian-binary
